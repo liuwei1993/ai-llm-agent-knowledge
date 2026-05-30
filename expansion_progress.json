@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 138,
+  "completed_rounds": 139,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -293,10 +293,10 @@
         },
         "工具调用失败处理": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T14:34:21.380936",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T21:38:31.749030",
+          "rounds_spent": 2
         },
         "Agent设计模式": {
           "status": "expanded",
