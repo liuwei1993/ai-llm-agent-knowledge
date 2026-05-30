@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 155,
+  "completed_rounds": 156,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -424,10 +424,10 @@
       "topics": {
         "量化技术概述": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T15:55:44.596976",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T23:03:11.240148",
+          "rounds_spent": 2
         },
         "INT4-INT8量化方案": {
           "status": "expanded",
