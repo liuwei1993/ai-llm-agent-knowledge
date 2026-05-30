@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 127,
+  "completed_rounds": 128,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -212,10 +212,10 @@
         },
         "重排序方法": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T13:35:52.804166",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T20:49:57.323067",
+          "rounds_spent": 2
         },
         "RAG评估指标RAGAS": {
           "status": "expanded",
