@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 193,
+  "completed_rounds": 194,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -735,10 +735,10 @@
       "topics": {
         "自我介绍技巧": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T18:16:41.386514",
-          "rounds_spent": 1
+          "last_updated": "2026-05-31T02:27:52.256409",
+          "rounds_spent": 2
         },
         "项目包装与深度挖掘": {
           "status": "expanded",
