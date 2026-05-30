@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 199,
+  "completed_rounds": 200,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -469,8 +469,8 @@
     "10-MCP与A2A协议": {
       "topics": {
         "MCP协议架构": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [
             "MCP概念与痛点",
             "核心架构（Host/Client/Server）",
@@ -482,8 +482,8 @@
             "工业级实践要点（工具数量控制/错误处理/安全性）",
             "常见面试问题"
           ],
-          "last_updated": "2026-05-30T10:34:18.521979",
-          "rounds_spent": 1
+          "last_updated": "2026-05-31T03:21:16.879083",
+          "rounds_spent": 2
         },
         "MCP本地vs远端Server": {
           "status": "expanded",
