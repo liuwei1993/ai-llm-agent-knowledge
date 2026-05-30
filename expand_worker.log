@@ -603,3 +603,12 @@ API: https://dashscope.aliyuncs.com/compatible-mode/v1
 [15:32:16]   写入: lora原理与实践.md (10732字)
 [15:32:16]   ✓ 完成 (级别0→1)，进度: 50/3000
   写入: /home/simon/learn/ai-agent-learning/ai-llm-agent-knowledge-base/08-微调与训练/lora原理与实践.md (11154字)
+  ✓ 完成 (级别 0→1)
+  等待 180秒...
+
+[15:35:16] 第51轮: 08-微调与训练/数据集准备与标注
+[15:35:16]   调用qwen-plus生成...
+[15:36:48] 第51轮: 08-微调与训练/数据集准备与标注
+  当前级别: 0, 已有内容: 0字
+  调用 qwen-plus 生成内容...
+[15:37:00]   写入: 数据集准备与标注.md (10251字)
