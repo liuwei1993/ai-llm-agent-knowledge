@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 83,
+  "completed_rounds": 84,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -645,11 +645,11 @@
           "rounds_spent": 1
         },
         "用户画像与个性化": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T17:31:17.650611",
+          "rounds_spent": 1
         },
         "记忆持久化方案": {
           "status": "pending",
