@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 8,
+  "completed_rounds": 9,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -59,11 +59,11 @@
           "rounds_spent": 1
         },
         "SFT监督微调": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T11:33:29.573716",
+          "rounds_spent": 1
         },
         "RLHF与对齐训练": {
           "status": "pending",

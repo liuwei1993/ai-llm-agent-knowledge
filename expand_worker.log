@@ -79,3 +79,10 @@ API: https://dashscope.aliyuncs.com/compatible-mode/v1
   等待 180秒...
 
 [11:28:59]   写入: 预训练阶段.md (9575字)
+[11:28:59]   ✓ 完成 (级别0→1)，进度: 8/3000
+[11:31:46] 第9轮: 02-LLM模型结构与训练/SFT监督微调
+  当前级别: 0, 已有内容: 0字
+  调用 qwen-plus 生成内容...
+[11:31:59] 第9轮: 02-LLM模型结构与训练/SFT监督微调
+[11:31:59]   调用qwen-plus生成...
+  写入: /home/simon/learn/ai-agent-learning/ai-llm-agent-knowledge-base/02-LLM模型结构与训练/sft监督微调.md (9763字)
