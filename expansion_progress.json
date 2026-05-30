@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 7,
+  "completed_rounds": 8,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -52,11 +52,11 @@
           "rounds_spent": 1
         },
         "预训练阶段": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T11:28:59.461348",
+          "rounds_spent": 1
         },
         "SFT监督微调": {
           "status": "pending",
