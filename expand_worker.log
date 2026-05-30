@@ -274,3 +274,10 @@ API: https://dashscope.aliyuncs.com/compatible-mode/v1
   等待 180秒...
 
 [13:02:18]   写入: 场景化选型实践.md (11120字)
+[13:02:18]   ✓ 完成 (级别0→1)，进度: 23/3000
+[13:04:06] 第24轮: 05-RAG检索增强生成/RAG核心流程概览
+  当前级别: 0, 已有内容: 0字
+  调用 qwen-plus 生成内容...
+[13:05:18] 第24轮: 05-RAG检索增强生成/RAG核心流程概览
+[13:05:18]   调用qwen-plus生成...
+  写入: /home/simon/learn/ai-agent-learning/ai-llm-agent-knowledge-base/05-RAG检索增强生成/rag核心流程概览.md (10200字)
