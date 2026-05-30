@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-LLM模型结构与训练/deepseek模型特点.md",
+                "file": "13-记忆机制/短期记忆与上下文窗口.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "deepseek模型特点"
+              "title": "短期记忆与上下文窗口"
             }
           }
         ]
@@ -197,6 +197,23 @@
   },
   "active": "53276e1081053526",
   "lastOpenFiles": [
+    "05-RAG检索增强生成/rag核心流程概览.md",
+    "05-RAG检索增强生成/graph-rag.md",
+    "05-RAG检索增强生成/embedding模型选择.md",
+    "05-RAG检索增强生成/agentic-rag.md",
+    "05-RAG检索增强生成/重排序方法.md",
+    "05-RAG检索增强生成/向量数据库对比.md",
+    "05-RAG检索增强生成/文档切分策略.md",
+    "05-RAG检索增强生成/检索策略与召回优化.md",
+    "04-模型对比与选择/开源vs闭源模型.md",
+    "04-模型对比与选择/场景化选型实践.md",
+    "03-模型与硬件/gpu选型建议.md",
+    "copilot/copilot-conversations/4090显卡市场价询问@20260530_230931.md",
+    "03-模型与硬件/cpu推理方案.md",
+    "03-模型与硬件/模型内存需求计算.md",
+    "03-模型与硬件/不同硬件推理对比.md",
+    "02-LLM模型结构与训练/rlhf与对齐训练.md",
+    "02-LLM模型结构与训练/deepseek模型特点.md",
     "02-LLM模型结构与训练/预训练阶段.md",
     "02-LLM模型结构与训练/千问模型演进.md",
     "02-LLM模型结构与训练/编码器与解码器的区别.md",
@@ -207,16 +224,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot"
   ]
