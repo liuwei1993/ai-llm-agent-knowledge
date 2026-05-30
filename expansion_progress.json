@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 130,
+  "completed_rounds": 131,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -233,10 +233,10 @@
         },
         "Graph-RAG": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T13:55:47.517427",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T21:04:22.862236",
+          "rounds_spent": 2
         },
         "Hybrid-Search混合检索": {
           "status": "expanded",
