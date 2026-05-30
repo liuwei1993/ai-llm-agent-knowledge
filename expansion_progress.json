@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 221,
+  "completed_rounds": 222,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -165,11 +165,11 @@
           "rounds_spent": 3
         },
         "场景化选型实践": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T20:23:06.661264",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T05:24:54.081490",
+          "rounds_spent": 3
         }
       }
     },
