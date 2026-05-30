@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 136,
+  "completed_rounds": 137,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -279,10 +279,10 @@
         },
         "Function-Calling机制": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T14:24:33.522083",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T21:28:54.614259",
+          "rounds_spent": 2
         },
         "ReAct模式": {
           "status": "expanded",
