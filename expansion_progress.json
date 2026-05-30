@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 49,
+  "completed_rounds": 50,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -370,11 +370,11 @@
     "08-微调与训练": {
       "topics": {
         "LoRA原理与实践": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T15:32:16.050318",
+          "rounds_spent": 1
         },
         "数据集准备与标注": {
           "status": "pending",
