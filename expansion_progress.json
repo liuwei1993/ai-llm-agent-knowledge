@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 152,
+  "completed_rounds": 153,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -399,10 +399,10 @@
         },
         "DPO直接偏好优化": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T15:48:39.219855",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T22:49:09.177652",
+          "rounds_spent": 2
         },
         "强化学习对齐": {
           "status": "expanded",
