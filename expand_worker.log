@@ -86,3 +86,7 @@ API: https://dashscope.aliyuncs.com/compatible-mode/v1
 [11:31:59] 第9轮: 02-LLM模型结构与训练/SFT监督微调
 [11:31:59]   调用qwen-plus生成...
   写入: /home/simon/learn/ai-agent-learning/ai-llm-agent-knowledge-base/02-LLM模型结构与训练/sft监督微调.md (9763字)
+  ✓ 完成 (级别 0→1)
+  等待 180秒...
+
+[11:33:44]   写入: sft监督微调.md (11905字)
