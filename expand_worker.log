@@ -349,3 +349,10 @@ API: https://dashscope.aliyuncs.com/compatible-mode/v1
   等待 180秒...
 
 [13:35:52]   写入: 重排序方法.md (10342字)
+[13:35:52]   ✓ 完成 (级别0→1)，进度: 29/3000
+[13:38:09] 第30轮: 05-RAG检索增强生成/RAG评估指标RAGAS
+  当前级别: 0, 已有内容: 0字
+  调用 qwen-plus 生成内容...
+[13:38:53] 第30轮: 05-RAG检索增强生成/RAG评估指标RAGAS
+[13:38:53]   调用qwen-plus生成...
+  写入: /home/simon/learn/ai-agent-learning/ai-llm-agent-knowledge-base/05-RAG检索增强生成/rag评估指标ragas.md (11399字)
