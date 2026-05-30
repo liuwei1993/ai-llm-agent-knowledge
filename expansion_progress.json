@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 148,
+  "completed_rounds": 149,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -371,10 +371,10 @@
       "topics": {
         "LoRA原理与实践": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T15:33:48.558931",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T22:30:27.487763",
+          "rounds_spent": 2
         },
         "数据集准备与标注": {
           "status": "expanded",
