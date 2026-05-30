@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 212,
+  "completed_rounds": 213,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -98,11 +98,11 @@
     "03-模型与硬件": {
       "topics": {
         "模型内存需求计算": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T19:40:50.880829",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T04:36:50.973883",
+          "rounds_spent": 3
         },
         "显存与计算资源评估": {
           "status": "expanded",
