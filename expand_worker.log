@@ -453,3 +453,14 @@ API: https://dashscope.aliyuncs.com/compatible-mode/v1
 [14:22:41] 第38轮: 06-Agent开发框架/Function-Calling机制
 [14:22:41]   调用qwen-plus生成...
 [14:24:33]   写入: function-calling机制.md (11057字)
+[14:24:33]   ✓ 完成 (级别0→1)，进度: 38/3000
+  [ERROR] API调用失败: The read operation timed out
+  [FAIL] 生成失败，跳过
+  等待 180秒...
+
+[14:27:33] 第39轮: 06-Agent开发框架/ReAct模式
+[14:27:33]   调用qwen-plus生成...
+[14:27:38] 第39轮: 06-Agent开发框架/ReAct模式
+  当前级别: 0, 已有内容: 0字
+  调用 qwen-plus 生成内容...
+[14:29:21]   写入: react模式.md (11872字)
