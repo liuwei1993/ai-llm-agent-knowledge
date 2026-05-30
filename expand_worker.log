@@ -653,3 +653,8 @@ API: https://dashscope.aliyuncs.com/compatible-mode/v1
 [15:54:05] 第57轮: 09-推理加速与量化/量化技术概述
 [15:54:05]   调用qwen-plus生成...
 [15:55:44]   写入: 量化技术概述.md (8606字)
+[15:55:44]   ✓ 完成 (级别0→1)，进度: 57/3000
+[15:56:35] 第58轮: 09-推理加速与量化/INT4-INT8量化方案
+  当前级别: 0, 已有内容: 0字
+  调用 qwen-plus 生成内容...
+  写入: /home/simon/learn/ai-agent-learning/ai-llm-agent-knowledge-base/09-推理加速与量化/int4-int8量化方案.md (9588字)

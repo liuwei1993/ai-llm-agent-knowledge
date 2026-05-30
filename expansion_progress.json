@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 57,
+  "completed_rounds": 58,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -430,11 +430,11 @@
           "rounds_spent": 1
         },
         "INT4-INT8量化方案": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T15:58:23.419420",
+          "rounds_spent": 1
         },
         "KV-Cache机制": {
           "status": "pending",
