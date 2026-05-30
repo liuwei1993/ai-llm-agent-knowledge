@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 186,
+  "completed_rounds": 187,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -678,10 +678,10 @@
         },
         "减少幻觉的工程方法": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T17:45:48.154975",
-          "rounds_spent": 1
+          "last_updated": "2026-05-31T01:55:50.250031",
+          "rounds_spent": 2
         },
         "幻觉检测与兜底策略": {
           "status": "expanded",
