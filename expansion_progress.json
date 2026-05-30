@@ -1,16 +1,16 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 200,
+  "completed_rounds": 201,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
       "topics": {
         "大模型岗位分类与职责": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T18:45:27.688885",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T03:25:43.098389",
+          "rounds_spent": 3
         },
         "算法工程师vs应用工程师": {
           "status": "expanded",
