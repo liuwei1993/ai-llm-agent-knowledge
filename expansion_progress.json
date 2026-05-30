@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 114,
+  "completed_rounds": 115,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -113,10 +113,10 @@
         },
         "CPU推理方案": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T12:06:48.638934",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T19:49:31.197214",
+          "rounds_spent": 2
         },
         "GPU选型建议": {
           "status": "expanded",
