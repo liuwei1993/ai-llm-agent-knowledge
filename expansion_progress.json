@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 117,
+  "completed_rounds": 118,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -138,10 +138,10 @@
       "topics": {
         "主流模型横向对比": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T12:42:40.335634",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T20:04:08.613632",
+          "rounds_spent": 2
         },
         "模型选型方法论": {
           "status": "expanded",
