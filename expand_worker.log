@@ -757,3 +757,8 @@ API: https://dashscope.aliyuncs.com/compatible-mode/v1
 [16:42:59] 第72轮: 11-提示词工程/Few-shot与In-context-learning
 [16:42:59]   调用qwen-plus生成...
 [16:44:57]   写入: few-shot与in-context-learning.md (11887字)
+[16:44:57]   ✓ 完成 (级别0→1)，进度: 72/3000
+[16:45:06] 第73轮: 11-提示词工程/结构化输出约束
+  当前级别: 0, 已有内容: 0字
+  调用 qwen-plus 生成内容...
+  写入: /home/simon/learn/ai-agent-learning/ai-llm-agent-knowledge-base/11-提示词工程/结构化输出约束.md (12008字)
