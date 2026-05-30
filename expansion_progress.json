@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 190,
+  "completed_rounds": 191,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -710,10 +710,10 @@
         },
         "OpenClaw三层架构": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T18:02:33.459697",
-          "rounds_spent": 1
+          "last_updated": "2026-05-31T02:14:16.765020",
+          "rounds_spent": 2
         },
         "ClaudeCode设计思想": {
           "status": "expanded",
