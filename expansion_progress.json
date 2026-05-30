@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 179,
+  "completed_rounds": 180,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -625,10 +625,10 @@
       "topics": {
         "短期记忆与上下文窗口": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T17:19:08.129775",
-          "rounds_spent": 1
+          "last_updated": "2026-05-31T01:23:38.779374",
+          "rounds_spent": 2
         },
         "长期记忆设计": {
           "status": "expanded",
