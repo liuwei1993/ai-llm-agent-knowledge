@@ -1,0 +1,771 @@
+{
+  "total_rounds": 3000,
+  "completed_rounds": 0,
+  "started_at": "2026-05-30T10:30:00",
+  "chapters": {
+    "01-学习路线与岗位介绍": {
+      "topics": {
+        "大模型岗位分类与职责": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "算法工程师vs应用工程师": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "自学路线与资源推荐": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "技能树与能力模型": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "02-LLM模型结构与训练": {
+      "topics": {
+        "Transformer架构详解": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "编码器与解码器的区别": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "预训练阶段": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "SFT监督微调": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "RLHF与对齐训练": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "千问模型演进": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "DeepSeek模型特点": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "GPT系列模型分析": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "03-模型与硬件": {
+      "topics": {
+        "模型内存需求计算": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "显存与计算资源评估": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "CPU推理方案": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "GPU选型建议": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "不同硬件推理对比": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "04-模型对比与选择": {
+      "topics": {
+        "主流模型横向对比": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "模型选型方法论": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "开源vs闭源模型": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "模型评测基准": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "场景化选型实践": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "05-RAG检索增强生成": {
+      "topics": {
+        "RAG核心流程概览": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "文档切分策略": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "Embedding模型选择": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "向量数据库对比": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "检索策略与召回优化": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "重排序方法": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "RAG评估指标RAGAS": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "Agentic-RAG": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "Graph-RAG": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "Hybrid-Search混合检索": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "06-Agent开发框架": {
+      "topics": {
+        "LangChain框架详解": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "LangGraph状态机": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "Semantic-Kernel框架": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "AutoGPT与自主Agent": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "Function-Calling机制": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "ReAct模式": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "工具调用失败处理": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "Agent设计模式": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "07-Multi-Agent系统": {
+      "topics": {
+        "单Agentvs多Agent": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "中心化架构设计": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "去中心化架构": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "层级式架构": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "Agent通信机制": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "状态管理与共享": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "错误传播与控制": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "多Agent场景设计": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "08-微调与训练": {
+      "topics": {
+        "LoRA原理与实践": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "数据集准备与标注": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "超参数调优": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "SFT训练流程": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "DPO直接偏好优化": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "强化学习对齐": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "微调实验方法论": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "09-推理加速与量化": {
+      "topics": {
+        "量化技术概述": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "INT4-INT8量化方案": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "KV-Cache机制": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "推理引擎对比": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "ONNX优化": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "推理加速实践方案": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "10-MCP与A2A协议": {
+      "topics": {
+        "MCP协议架构": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "MCP本地vs远端Server": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "MCP版本协商与能力协商": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "A2A协议详解": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "MCP与A2A对比与选型": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "MCP工具开发实践": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "11-提示词工程": {
+      "topics": {
+        "提示词设计原则": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "提示词压缩与裁剪": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "数据飞轮优化": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "COT思维链": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "Few-shot与In-context-learning": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "结构化输出约束": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "12-Agent评估与监控": {
+      "topics": {
+        "评估维度与指标体系": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "LLM-as-Judge方法": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "轨迹评估": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "工具调用评估": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "线上监控方案": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "离线评估数据集设计": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "美团龙猫评估方法": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "13-记忆机制": {
+      "topics": {
+        "短期记忆与上下文窗口": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "长期记忆设计": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "上下文压缩策略": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "用户画像与个性化": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "记忆持久化方案": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "14-幻觉问题": {
+      "topics": {
+        "幻觉的定义与分类": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "幻觉产生的根因": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "减少幻觉的工程方法": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "幻觉检测与兜底策略": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "15-架构设计模式": {
+      "topics": {
+        "Agent系统架构模板": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "事件驱动架构": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "OpenClaw三层架构": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "ClaudeCode设计思想": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "场景化架构设计": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    },
+    "16-面试技巧与实战": {
+      "topics": {
+        "自我介绍技巧": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "项目包装与深度挖掘": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "反问技巧": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "意向度展示": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "常见面试问题应对": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        },
+        "谈薪策略": {
+          "status": "pending",
+          "expansion_level": 0,
+          "subtopics_covered": [],
+          "last_updated": null,
+          "rounds_spent": 0
+        }
+      }
+    }
+  }
+}
