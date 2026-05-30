@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 184,
+  "completed_rounds": 185,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -664,10 +664,10 @@
       "topics": {
         "幻觉的定义与分类": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T17:40:56.731594",
-          "rounds_spent": 1
+          "last_updated": "2026-05-31T01:46:38.419924",
+          "rounds_spent": 2
         },
         "幻觉产生的根因": {
           "status": "expanded",
