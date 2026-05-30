@@ -1108,3 +1108,7 @@ API: https://dashscope.aliyuncs.com/compatible-mode/v1
 [19:19:48] 第109轮: 02-LLM模型结构与训练/RLHF与对齐训练
 [19:19:48]   调用qwen-plus生成...
   写入: /home/simon/learn/ai-agent-learning/ai-llm-agent-knowledge-base/02-LLM模型结构与训练/rlhf与对齐训练.md (10636字)
+  ✓ 完成 (级别 1→2)
+  等待 180秒...
+
+[19:21:41]   写入: rlhf与对齐训练.md (12101字)
