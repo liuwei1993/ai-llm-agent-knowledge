@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 191,
+  "completed_rounds": 192,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -717,10 +717,10 @@
         },
         "ClaudeCode设计思想": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T18:07:03.515837",
-          "rounds_spent": 1
+          "last_updated": "2026-05-31T02:18:56.584222",
+          "rounds_spent": 2
         },
         "场景化架构设计": {
           "status": "expanded",
