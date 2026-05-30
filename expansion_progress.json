@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 2,
+  "completed_rounds": 3,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -13,11 +13,11 @@
           "rounds_spent": 1
         },
         "算法工程师vs应用工程师": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T11:04:42.510008",
+          "rounds_spent": 1
         },
         "自学路线与资源推荐": {
           "status": "pending",
