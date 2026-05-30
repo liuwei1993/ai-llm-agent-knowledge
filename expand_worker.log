@@ -1,0 +1,13 @@
+============================================================
+AI/LLM Agent 知识库扩写 Worker
+模型: qwen-plus
+API: https://dashscope.aliyuncs.com/compatible-mode/v1
+间隔: 180秒
+目录: /home/simon/learn/ai-agent-learning/ai-llm-agent-knowledge-base
+============================================================
+当前进度: 1/3000
+
+[10:58:23] 第2轮: 01-学习路线与岗位介绍/大模型岗位分类与职责
+  当前级别: 0, 已有内容: 0字
+  调用 qwen-plus 生成内容...
+  写入: /home/simon/learn/ai-agent-learning/ai-llm-agent-knowledge-base/01-学习路线与岗位介绍/大模型岗位分类与职责.md (10463字)
