@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 98,
+  "completed_rounds": 99,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -762,11 +762,11 @@
           "rounds_spent": 1
         },
         "常见面试问题应对": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T18:34:51.856573",
+          "rounds_spent": 1
         },
         "谈薪策略": {
           "status": "pending",

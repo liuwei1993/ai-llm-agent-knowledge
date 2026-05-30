@@ -991,3 +991,10 @@ API: https://dashscope.aliyuncs.com/compatible-mode/v1
   等待 180秒...
 
 [18:31:14]   写入: 意向度展示.md (10266字)
+[18:31:14]   ✓ 完成 (级别0→1)，进度: 98/3000
+[18:33:10] 第99轮: 16-面试技巧与实战/常见面试问题应对
+  当前级别: 0, 已有内容: 0字
+  调用 qwen-plus 生成内容...
+[18:34:14] 第99轮: 16-面试技巧与实战/常见面试问题应对
+[18:34:14]   调用qwen-plus生成...
+  写入: /home/simon/learn/ai-agent-learning/ai-llm-agent-knowledge-base/16-面试技巧与实战/常见面试问题应对.md (9909字)
