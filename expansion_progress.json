@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 165,
+  "completed_rounds": 166,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -515,10 +515,10 @@
         },
         "MCP工具开发实践": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T16:30:00.950745",
-          "rounds_spent": 1
+          "last_updated": "2026-05-31T00:25:05.727632",
+          "rounds_spent": 2
         }
       }
     },
