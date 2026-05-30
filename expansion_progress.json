@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 140,
+  "completed_rounds": 141,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -311,10 +311,10 @@
       "topics": {
         "单Agentvs多Agent": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T14:44:19.199375",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T21:47:31.664594",
+          "rounds_spent": 2
         },
         "中心化架构设计": {
           "status": "expanded",

@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "编码器与解码器的区别 的大纲"
             }
+          },
+          {
+            "id": "c9cbe2ee7f0e5628",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 677.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +195,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "53276e1081053526",
+  "active": "c9cbe2ee7f0e5628",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/def_choose_architecture(task_str,_latency_sla_float,_data_scale_int)_-_str_if@20260530_214335.md",
+    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
