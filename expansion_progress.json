@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 164,
+  "completed_rounds": 165,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -508,10 +508,10 @@
         },
         "MCP与A2A对比与选型": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T16:25:13.186958",
-          "rounds_spent": 1
+          "last_updated": "2026-05-31T00:20:27.628814",
+          "rounds_spent": 2
         },
         "MCP工具开发实践": {
           "status": "expanded",
