@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 160,
+  "completed_rounds": 161,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -459,10 +459,10 @@
         },
         "推理加速实践方案": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T16:15:33.149504",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T23:41:48.420864",
+          "rounds_spent": 2
         }
       }
     },
