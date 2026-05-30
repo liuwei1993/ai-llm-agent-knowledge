@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 146,
+  "completed_rounds": 147,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -353,10 +353,10 @@
         },
         "错误传播与控制": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T15:23:57.205641",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T22:20:57.657039",
+          "rounds_spent": 2
         },
         "多Agent场景设计": {
           "status": "expanded",
