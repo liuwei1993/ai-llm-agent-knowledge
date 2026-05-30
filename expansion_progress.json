@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 73,
+  "completed_rounds": 74,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -571,11 +571,11 @@
     "12-Agent评估与监控": {
       "topics": {
         "评估维度与指标体系": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T16:49:44.720452",
+          "rounds_spent": 1
         },
         "LLM-as-Judge方法": {
           "status": "pending",
