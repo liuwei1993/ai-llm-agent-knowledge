@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 16,
+  "completed_rounds": 17,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -119,11 +119,11 @@
           "rounds_spent": 1
         },
         "GPU选型建议": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T12:16:40.451463",
+          "rounds_spent": 1
         },
         "不同硬件推理对比": {
           "status": "pending",
