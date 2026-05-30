@@ -927,3 +927,14 @@ API: https://dashscope.aliyuncs.com/compatible-mode/v1
   等待 180秒...
 
 [18:02:33]   写入: openclaw三层架构.md (12447字)
+[18:02:33]   ✓ 完成 (级别0→1)，进度: 92/3000
+[18:03:47] 第93轮: 15-架构设计模式/ClaudeCode设计思想
+  当前级别: 0, 已有内容: 0字
+  调用 qwen-plus 生成内容...
+[18:05:33] 第93轮: 15-架构设计模式/ClaudeCode设计思想
+[18:05:33]   调用qwen-plus生成...
+  [ERROR] API调用失败: The read operation timed out
+  [FAIL] 生成失败，跳过
+  等待 180秒...
+
+[18:07:03]   写入: claudecode设计思想.md (10185字)
