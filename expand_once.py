@@ -4,6 +4,7 @@ import json, os, sys, subprocess, time
 from datetime import datetime
 from pathlib import Path
 import urllib.request, urllib.error
+from langfuse import Langfuse
 
 BASE_DIR = Path.home() / "learn/ai-agent-learning/ai-llm-agent-knowledge-base"
 NOTES_FILE = Path.home() / "learn/ai-agent-learning/AI-LLM-Agent 面试学习笔记.md"
@@ -22,6 +23,17 @@ if env_file.exists():
 API_KEY = os.environ.get("DASHSCOPE_API_KEY", "")
 API_BASE = os.environ.get("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1")
 MODEL = "qwen-plus"
+
+# ── Langfuse 配置 ──
+LANGFUSE_SECRET_KEY = os.environ.get("LANGFUSE_SECRET_KEY", "sk-lf-8b6b2edc-8723-43e5-8934-a86a74ef9e31")
+LANGFUSE_PUBLIC_KEY = os.environ.get("LANGFUSE_PUBLIC_KEY", "pk-lf-b191e741-5b00-468d-b396-e886d9fd8ee3")
+LANGFUSE_BASE_URL = os.environ.get("LANGFUSE_BASE_URL", "http://localhost:3001")
+
+langfuse = Langfuse(
+    secret_key=LANGFUSE_SECRET_KEY,
+    public_key=LANGFUSE_PUBLIC_KEY,
+    host=LANGFUSE_BASE_URL,
+)
 
 CHAPTERS = {
     "01-学习路线与岗位介绍": ["大模型岗位分类与职责", "算法工程师vs应用工程师", "自学路线与资源推荐", "技能树与能力模型"],
@@ -87,18 +99,23 @@ def read_notes(topic):
     return "\n---\n".join(relevant[:5])[:3000]
 
 def call_llm(sys_p, usr_p):
-    data = json.dumps({"model": MODEL, "messages": [
+    messages = [
         {"role": "system", "content": sys_p},
         {"role": "user", "content": usr_p}
-    ], "max_tokens": 8000, "temperature": 0.3}).encode()
+    ]
+    data = json.dumps({"model": MODEL, "messages": messages,
+        "max_tokens": 8000, "temperature": 0.3}).encode()
     req = urllib.request.Request(f"{API_BASE}/chat/completions", data=data,
         headers={"Content-Type": "application/json", "Authorization": f"Bearer {API_KEY}"})
     try:
         with urllib.request.urlopen(req, timeout=180) as r:
-            return json.loads(r.read())["choices"][0]["message"]["content"]
+            resp = json.loads(r.read())
+            content = resp["choices"][0]["message"]["content"]
+            usage = resp.get("usage", {})
+            return content, usage, messages
     except Exception as e:
         log(f"  API错误: {e}")
-        return None
+        return None, {}, messages
 
 def run_round():
     progress = load_progress()
@@ -125,10 +142,33 @@ def run_round():
         usr_p = f"深化扩写「{topic}」（章节：{ch}，当前级别{cl}/4）。\n\n已有内容前2000字：\n{existing[:2000]}\n\n补充方向（选2-3个）：\n1. 更多工业案例（字节/阿里/美团/OpenAI/Anthropic）\n2. 性能调优benchmark数据\n3. 高级设计模式与复杂场景\n4. 面试深度追问连环题\n5. 源码级解析\n6. 前沿论文解读\n\n输出完整新版文档替换原版，不要说明性文字。"
 
     log(f"  调用{MODEL}生成...")
-    content = call_llm(sys_p, usr_p)
+    content, usage, messages = call_llm(sys_p, usr_p)
     if not content:
         log("  生成失败，跳过")
         return
+
+    # ── Langfuse 记录 ──
+    try:
+        gen = langfuse.start_observation(
+            name=f"expand-{topic}",
+            as_type="generation",
+            model=MODEL,
+            input=messages,
+            output=content[:2000],  # 只记录前2000字避免过长
+            usage_details={
+                "input": usage.get("prompt_tokens", 0),
+                "output": usage.get("completion_tokens", 0),
+                "total": usage.get("total_tokens", 0),
+            },
+            metadata={"chapter": ch, "topic": topic, "round": rn, "level": f"{cl}→{min(cl+1,4)}", "output_chars": len(content)},
+        )
+        gen.end()
+        langfuse.flush()
+        pt = usage.get("prompt_tokens", "?")
+        ct = usage.get("completion_tokens", "?")
+        log(f"  Token: input={pt}, output={ct}")
+    except Exception as e:
+        log(f"  Langfuse记录失败(不影响扩写): {e}")
 
     fp = BASE_DIR / ch / topic_fn(topic)
     fp.parent.mkdir(parents=True, exist_ok=True)
