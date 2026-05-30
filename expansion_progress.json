@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 0,
+  "completed_rounds": 1,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -469,11 +469,21 @@
     "10-MCP与A2A协议": {
       "topics": {
         "MCP协议架构": {
-          "status": "pending",
-          "expansion_level": 0,
-          "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "status": "expanded",
+          "expansion_level": 2,
+          "subtopics_covered": [
+            "MCP概念与痛点",
+            "核心架构（Host/Client/Server）",
+            "两层架构（Data Layer + Transport Layer）",
+            "生命周期管理（初始化握手）",
+            "核心原语（Tools/Resources/Prompts/Notifications）",
+            "版本协商与能力协商",
+            "AI应用中的MCP工作流",
+            "工业级实践要点（工具数量控制/错误处理/安全性）",
+            "常见面试问题"
+          ],
+          "last_updated": "2026-05-30T10:34:18.521979",
+          "rounds_spent": 1
         },
         "MCP本地vs远端Server": {
           "status": "pending",
