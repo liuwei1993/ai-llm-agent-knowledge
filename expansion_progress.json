@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 103,
+  "completed_rounds": 104,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -28,10 +28,10 @@
         },
         "技能树与能力模型": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T11:15:03.968666",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T18:58:11.518001",
+          "rounds_spent": 2
         }
       }
     },
