@@ -715,3 +715,14 @@ API: https://dashscope.aliyuncs.com/compatible-mode/v1
 [16:23:20] 第66轮: 10-MCP与A2A协议/MCP与A2A对比与选型
 [16:23:20]   调用qwen-plus生成...
 [16:25:13]   写入: mcp与a2a对比与选型.md (12064字)
+[16:25:13]   ✓ 完成 (级别0→1)，进度: 66/3000
+[16:25:37] 第67轮: 10-MCP与A2A协议/MCP工具开发实践
+  当前级别: 0, 已有内容: 0字
+  调用 qwen-plus 生成内容...
+  [ERROR] API调用失败: The read operation timed out
+  [FAIL] 生成失败，跳过
+  等待 180秒...
+
+[16:28:13] 第67轮: 10-MCP与A2A协议/MCP工具开发实践
+[16:28:13]   调用qwen-plus生成...
+[16:30:00]   写入: mcp工具开发实践.md (13580字)
