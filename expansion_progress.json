@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 166,
+  "completed_rounds": 167,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -526,10 +526,10 @@
       "topics": {
         "提示词设计原则": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T16:32:23.932676",
-          "rounds_spent": 1
+          "last_updated": "2026-05-31T00:29:42.319833",
+          "rounds_spent": 2
         },
         "提示词压缩与裁剪": {
           "status": "expanded",
