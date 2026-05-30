@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 135,
+  "completed_rounds": 136,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -272,10 +272,10 @@
         },
         "AutoGPT与自主Agent": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T14:19:41.344637",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T21:24:05.486859",
+          "rounds_spent": 2
         },
         "Function-Calling机制": {
           "status": "expanded",
