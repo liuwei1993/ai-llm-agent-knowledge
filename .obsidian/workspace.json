@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-LLM模型结构与训练/编码器与解码器的区别.md",
+                "file": "02-LLM模型结构与训练/deepseek模型特点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "编码器与解码器的区别"
+              "title": "deepseek模型特点"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-LLM模型结构与训练/编码器与解码器的区别.md",
+                "file": "02-LLM模型结构与训练/deepseek模型特点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "编码器与解码器的区别 的反向链接列表"
+              "title": "deepseek模型特点 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-LLM模型结构与训练/编码器与解码器的区别.md",
+                "file": "02-LLM模型结构与训练/deepseek模型特点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "编码器与解码器的区别 的出链列表"
+              "title": "deepseek模型特点 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-LLM模型结构与训练/编码器与解码器的区别.md",
+                "file": "02-LLM模型结构与训练/deepseek模型特点.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "编码器与解码器的区别 的大纲"
+              "title": "deepseek模型特点 的大纲"
             }
           },
           {
@@ -195,9 +195,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c9cbe2ee7f0e5628",
+  "active": "53276e1081053526",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/def_choose_architecture(task_str,_latency_sla_float,_data_scale_int)_-_str_if@20260530_214335.md",
+    "02-LLM模型结构与训练/预训练阶段.md",
+    "02-LLM模型结构与训练/千问模型演进.md",
+    "02-LLM模型结构与训练/编码器与解码器的区别.md",
+    "copilot/copilot-conversations/Copilot_License_Key_Error@20260530_214335.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",

@@ -330,6 +330,33 @@
         "reasoning"
       ],
       "apiKey": ""
+    },
+    {
+      "name": "deepseek-v4-pro",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "apiKey": "",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning"
+      ],
+      "stream": true,
+      "openAIOrgId": ""
+    },
+    {
+      "name": "deepseek-v4-flash",
+      "provider": "openai",
+      "enabled": true,
+      "baseUrl": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "apiKey": "",
+      "isEmbeddingModel": false,
+      "stream": true,
+      "openAIOrgId": "",
+      "capabilities": [
+        "reasoning"
+      ]
     }
   ],
   "activeEmbeddingModels": [
