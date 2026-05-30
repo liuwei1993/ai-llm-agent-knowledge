@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 54,
+  "completed_rounds": 55,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -405,11 +405,11 @@
           "rounds_spent": 1
         },
         "强化学习对齐": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T15:51:05.047782",
+          "rounds_spent": 1
         },
         "微调实验方法论": {
           "status": "pending",
