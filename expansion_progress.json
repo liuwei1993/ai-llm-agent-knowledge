@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 176,
+  "completed_rounds": 177,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -600,10 +600,10 @@
         },
         "线上监控方案": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T17:09:37.065329",
-          "rounds_spent": 1
+          "last_updated": "2026-05-31T01:09:25.121960",
+          "rounds_spent": 2
         },
         "离线评估数据集设计": {
           "status": "expanded",
