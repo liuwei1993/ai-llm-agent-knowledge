@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 223,
+  "completed_rounds": 224,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -183,11 +183,11 @@
           "rounds_spent": 3
         },
         "文档切分策略": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T20:32:25.989246",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T05:34:27.048215",
+          "rounds_spent": 3
         },
         "Embedding模型选择": {
           "status": "expanded",
