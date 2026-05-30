@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 34,
+  "completed_rounds": 35,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -257,11 +257,11 @@
           "rounds_spent": 1
         },
         "LangGraph状态机": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T14:10:18.543819",
+          "rounds_spent": 1
         },
         "Semantic-Kernel框架": {
           "status": "pending",
