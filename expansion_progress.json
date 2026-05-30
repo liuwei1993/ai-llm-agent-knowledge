@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 79,
+  "completed_rounds": 80,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -613,11 +613,11 @@
           "rounds_spent": 1
         },
         "美团龙猫评估方法": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T17:16:20.983632",
+          "rounds_spent": 1
         }
       }
     },
