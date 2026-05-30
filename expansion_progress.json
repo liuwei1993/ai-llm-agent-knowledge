@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 69,
+  "completed_rounds": 70,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -539,11 +539,11 @@
           "rounds_spent": 1
         },
         "数据飞轮优化": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T16:37:11.208761",
+          "rounds_spent": 1
         },
         "COT思维链": {
           "status": "pending",
