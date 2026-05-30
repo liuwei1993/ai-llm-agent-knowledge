@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 161,
+  "completed_rounds": 162,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -487,10 +487,10 @@
         },
         "MCP本地vs远端Server": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T16:17:43.763406",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T23:46:13.621822",
+          "rounds_spent": 2
         },
         "MCP版本协商与能力协商": {
           "status": "expanded",
