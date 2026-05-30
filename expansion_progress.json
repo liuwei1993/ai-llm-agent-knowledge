@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 158,
+  "completed_rounds": 159,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -445,10 +445,10 @@
         },
         "推理引擎对比": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T16:08:09.461662",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T23:27:12.755581",
+          "rounds_spent": 2
         },
         "ONNX优化": {
           "status": "expanded",
