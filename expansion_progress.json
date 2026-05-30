@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 42,
+  "completed_rounds": 43,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -317,11 +317,11 @@
           "rounds_spent": 1
         },
         "中心化架构设计": {
-          "status": "pending",
-          "expansion_level": 0,
+          "status": "expanded",
+          "expansion_level": 1,
           "subtopics_covered": [],
-          "last_updated": null,
-          "rounds_spent": 0
+          "last_updated": "2026-05-30T14:48:38.792979",
+          "rounds_spent": 1
         },
         "去中心化架构": {
           "status": "pending",
