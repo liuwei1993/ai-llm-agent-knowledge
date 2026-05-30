@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 181,
+  "completed_rounds": 182,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -639,10 +639,10 @@
         },
         "上下文压缩策略": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T17:28:32.142544",
-          "rounds_spent": 1
+          "last_updated": "2026-05-31T01:32:40.858048",
+          "rounds_spent": 2
         },
         "用户画像与个性化": {
           "status": "expanded",
