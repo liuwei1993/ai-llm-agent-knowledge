@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 126,
+  "completed_rounds": 127,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -205,10 +205,10 @@
         },
         "检索策略与召回优化": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T13:31:07.764988",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T20:45:20.679344",
+          "rounds_spent": 2
         },
         "重排序方法": {
           "status": "expanded",
