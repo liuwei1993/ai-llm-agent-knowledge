@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 143,
+  "completed_rounds": 144,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -332,10 +332,10 @@
         },
         "层级式架构": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T15:09:09.654175",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T22:01:29.365786",
+          "rounds_spent": 2
         },
         "Agent通信机制": {
           "status": "expanded",
