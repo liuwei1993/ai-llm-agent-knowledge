@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 219,
+  "completed_rounds": 220,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -151,11 +151,11 @@
           "rounds_spent": 3
         },
         "开源vs闭源模型": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T20:13:52.664510",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T05:15:16.207386",
+          "rounds_spent": 3
         },
         "模型评测基准": {
           "status": "expanded",
