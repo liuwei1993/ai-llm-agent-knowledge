@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 196,
+  "completed_rounds": 197,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -756,10 +756,10 @@
         },
         "意向度展示": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T18:31:14.457364",
-          "rounds_spent": 1
+          "last_updated": "2026-05-31T03:07:23.055573",
+          "rounds_spent": 2
         },
         "常见面试问题应对": {
           "status": "expanded",
