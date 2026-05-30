@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 157,
+  "completed_rounds": 158,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -438,10 +438,10 @@
         },
         "KV-Cache机制": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T16:00:35.890033",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T23:22:34.797372",
+          "rounds_spent": 2
         },
         "推理引擎对比": {
           "status": "expanded",
