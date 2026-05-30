@@ -466,3 +466,12 @@ API: https://dashscope.aliyuncs.com/compatible-mode/v1
 [14:29:21]   写入: react模式.md (11872字)
 [14:29:21]   ✓ 完成 (级别0→1)，进度: 39/3000
   写入: /home/simon/learn/ai-agent-learning/ai-llm-agent-knowledge-base/06-Agent开发框架/react模式.md (12878字)
+  ✓ 完成 (级别 0→1)
+  等待 180秒...
+
+[14:32:21] 第40轮: 06-Agent开发框架/工具调用失败处理
+[14:32:21]   调用qwen-plus生成...
+[14:32:25] 第40轮: 06-Agent开发框架/工具调用失败处理
+  当前级别: 0, 已有内容: 0字
+  调用 qwen-plus 生成内容...
+[14:34:21]   写入: 工具调用失败处理.md (12283字)
