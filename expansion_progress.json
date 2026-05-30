@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 145,
+  "completed_rounds": 146,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -346,10 +346,10 @@
         },
         "状态管理与共享": {
           "status": "expanded",
-          "expansion_level": 1,
+          "expansion_level": 2,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T15:19:06.311861",
-          "rounds_spent": 1
+          "last_updated": "2026-05-30T22:16:01.849550",
+          "rounds_spent": 2
         },
         "错误传播与控制": {
           "status": "expanded",
