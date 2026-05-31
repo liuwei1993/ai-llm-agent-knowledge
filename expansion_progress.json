@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 387,
+  "completed_rounds": 392,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -685,10 +685,10 @@
         },
         "幻觉检测与兜底策略": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:57:10.020756",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:33:15.281165",
+          "rounds_spent": 4
         }
       }
     },
@@ -696,31 +696,31 @@
       "topics": {
         "Agent系统架构模板": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:57:10.020761",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:33:15.281183",
+          "rounds_spent": 4
         },
         "事件驱动架构": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:57:10.020759",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:33:15.281178",
+          "rounds_spent": 4
         },
         "OpenClaw三层架构": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:57:10.020746",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:33:15.281181",
+          "rounds_spent": 4
         },
         "ClaudeCode设计思想": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:57:10.020764",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:33:15.281185",
+          "rounds_spent": 4
         },
         "场景化架构设计": {
           "status": "deep_expanded",
