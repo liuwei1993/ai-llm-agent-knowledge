@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 347,
+  "completed_rounds": 352,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -360,10 +360,10 @@
         },
         "多Agent场景设计": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T10:10:11.056544",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:52:24.473527",
+          "rounds_spent": 4
         }
       }
     },
@@ -371,31 +371,31 @@
       "topics": {
         "LoRA原理与实践": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T10:20:05.739635",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:52:24.473453",
+          "rounds_spent": 4
         },
         "数据集准备与标注": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T10:24:52.175107",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:52:24.473553",
+          "rounds_spent": 4
         },
         "超参数调优": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T10:29:33.087071",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:52:24.473542",
+          "rounds_spent": 4
         },
         "SFT训练流程": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T10:34:26.863316",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:52:24.473562",
+          "rounds_spent": 4
         },
         "DPO直接偏好优化": {
           "status": "deep_expanded",
