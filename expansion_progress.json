@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 282,
+  "completed_rounds": 287,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -645,43 +645,43 @@
           "rounds_spent": 3
         },
         "用户画像与个性化": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T01:37:22.184042",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:52:38.303936",
+          "rounds_spent": 3
         },
         "记忆持久化方案": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T01:41:54.365382",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:52:38.303939",
+          "rounds_spent": 3
         }
       }
     },
     "14-幻觉问题": {
       "topics": {
         "幻觉的定义与分类": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T01:46:38.419924",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:52:38.303926",
+          "rounds_spent": 3
         },
         "幻觉产生的根因": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T01:51:11.242866",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:52:38.303941",
+          "rounds_spent": 3
         },
         "减少幻觉的工程方法": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T01:55:50.250031",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:52:38.303943",
+          "rounds_spent": 3
         },
         "幻觉检测与兜底策略": {
           "status": "expanded",
