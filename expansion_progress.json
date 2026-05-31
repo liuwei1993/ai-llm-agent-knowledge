@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 287,
+  "completed_rounds": 292,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -684,43 +684,43 @@
           "rounds_spent": 3
         },
         "幻觉检测与兜底策略": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T02:00:33.251413",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:57:10.020756",
+          "rounds_spent": 3
         }
       }
     },
     "15-架构设计模式": {
       "topics": {
         "Agent系统架构模板": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T02:05:04.574703",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:57:10.020761",
+          "rounds_spent": 3
         },
         "事件驱动架构": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T02:09:43.532414",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:57:10.020759",
+          "rounds_spent": 3
         },
         "OpenClaw三层架构": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T02:14:16.765020",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:57:10.020746",
+          "rounds_spent": 3
         },
         "ClaudeCode设计思想": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T02:18:56.584222",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:57:10.020764",
+          "rounds_spent": 3
         },
         "场景化架构设计": {
           "status": "expanded",
