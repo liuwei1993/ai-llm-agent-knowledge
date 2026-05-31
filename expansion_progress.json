@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 362,
+  "completed_rounds": 367,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -494,31 +494,31 @@
         },
         "MCP版本协商与能力协商": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T13:42:29.089837",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:07:18.340247",
+          "rounds_spent": 4
         },
         "A2A协议详解": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T13:52:28.541126",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:07:18.340251",
+          "rounds_spent": 4
         },
         "MCP与A2A对比与选型": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T13:57:13.937067",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:07:18.340235",
+          "rounds_spent": 4
         },
         "MCP工具开发实践": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:01:50.653228",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:07:18.340244",
+          "rounds_spent": 4
         }
       }
     },
@@ -526,10 +526,10 @@
       "topics": {
         "提示词设计原则": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:17:19.864106",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:07:18.340249",
+          "rounds_spent": 4
         },
         "提示词压缩与裁剪": {
           "status": "deep_expanded",
