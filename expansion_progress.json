@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 357,
+  "completed_rounds": 362,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -438,31 +438,31 @@
         },
         "KV-Cache机制": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T11:18:18.374592",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:02:14.502984",
+          "rounds_spent": 4
         },
         "推理引擎对比": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T12:28:21.322488",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:02:14.502969",
+          "rounds_spent": 4
         },
         "ONNX优化": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T12:33:16.642240",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:02:14.502978",
+          "rounds_spent": 4
         },
         "推理加速实践方案": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T13:33:18.091630",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:02:14.502981",
+          "rounds_spent": 4
         }
       }
     },
@@ -487,10 +487,10 @@
         },
         "MCP本地vs远端Server": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T13:37:50.826797",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:02:14.502986",
+          "rounds_spent": 4
         },
         "MCP版本协商与能力协商": {
           "status": "deep_expanded",
