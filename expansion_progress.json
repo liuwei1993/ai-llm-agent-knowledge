@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 382,
+  "completed_rounds": 387,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -646,17 +646,17 @@
         },
         "用户画像与个性化": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:52:38.303936",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:28:08.216934",
+          "rounds_spent": 4
         },
         "记忆持久化方案": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:52:38.303939",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:28:08.216905",
+          "rounds_spent": 4
         }
       }
     },
@@ -664,24 +664,24 @@
       "topics": {
         "幻觉的定义与分类": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:52:38.303926",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:28:08.216928",
+          "rounds_spent": 4
         },
         "幻觉产生的根因": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:52:38.303941",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:28:08.216931",
+          "rounds_spent": 4
         },
         "减少幻觉的工程方法": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:52:38.303943",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:28:08.216923",
+          "rounds_spent": 4
         },
         "幻觉检测与兜底策略": {
           "status": "deep_expanded",
