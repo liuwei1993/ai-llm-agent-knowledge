@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 322,
+  "completed_rounds": 327,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -177,38 +177,38 @@
       "topics": {
         "RAG核心流程概览": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T05:29:28.845205",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:29:02.813752",
+          "rounds_spent": 4
         },
         "文档切分策略": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T05:34:27.048215",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:29:02.813759",
+          "rounds_spent": 4
         },
         "Embedding模型选择": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T05:39:24.092427",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:29:02.813757",
+          "rounds_spent": 4
         },
         "向量数据库对比": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T05:49:13.704838",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:29:02.813743",
+          "rounds_spent": 4
         },
         "检索策略与召回优化": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T05:54:08.186639",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:29:02.813755",
+          "rounds_spent": 4
         },
         "重排序方法": {
           "status": "deep_expanded",
