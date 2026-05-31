@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 372,
+  "completed_rounds": 377,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -572,38 +572,38 @@
       "topics": {
         "评估维度与指标体系": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:43:35.900946",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:17:27.511589",
+          "rounds_spent": 4
         },
         "LLM-as-Judge方法": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:43:35.900956",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:17:27.511586",
+          "rounds_spent": 4
         },
         "轨迹评估": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:43:35.900961",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:17:27.511594",
+          "rounds_spent": 4
         },
         "工具调用评估": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:43:35.900963",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:17:27.511574",
+          "rounds_spent": 4
         },
         "线上监控方案": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:43:35.900959",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:17:27.511592",
+          "rounds_spent": 4
         },
         "离线评估数据集设计": {
           "status": "deep_expanded",
