@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 307,
+  "completed_rounds": 312,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -60,38 +60,38 @@
         },
         "SFT监督微调": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T04:03:01.910170",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:15:28.969323",
+          "rounds_spent": 4
         },
         "RLHF与对齐训练": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T04:07:39.130777",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:15:28.969330",
+          "rounds_spent": 4
         },
         "千问模型演进": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T04:12:38.464478",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:15:28.969326",
+          "rounds_spent": 4
         },
         "DeepSeek模型特点": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T04:17:13.400308",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:15:28.969314",
+          "rounds_spent": 4
         },
         "GPT系列模型分析": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T04:32:10.630649",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:15:28.969332",
+          "rounds_spent": 4
         }
       }
     },
