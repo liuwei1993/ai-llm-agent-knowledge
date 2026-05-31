@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 317,
+  "completed_rounds": 322,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -138,38 +138,38 @@
       "topics": {
         "主流模型横向对比": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T05:00:36.882259",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:24:31.440492",
+          "rounds_spent": 4
         },
         "模型选型方法论": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T05:10:34.088153",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:24:31.440490",
+          "rounds_spent": 4
         },
         "开源vs闭源模型": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T05:15:16.207386",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:24:31.440475",
+          "rounds_spent": 4
         },
         "模型评测基准": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T05:19:54.677047",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:24:31.440485",
+          "rounds_spent": 4
         },
         "场景化选型实践": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T05:24:54.081490",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:24:31.440488",
+          "rounds_spent": 4
         }
       }
     },
