@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 237,
+  "completed_rounds": 238,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -285,11 +285,11 @@
           "rounds_spent": 3
         },
         "ReAct模式": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T21:33:49.451251",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T08:27:02.233872",
+          "rounds_spent": 3
         },
         "工具调用失败处理": {
           "status": "expanded",
