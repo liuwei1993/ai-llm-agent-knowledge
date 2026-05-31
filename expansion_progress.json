@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 342,
+  "completed_rounds": 347,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -325,38 +325,38 @@
         },
         "去中心化架构": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T09:41:17.561503",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:47:49.519494",
+          "rounds_spent": 4
         },
         "层级式架构": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T09:46:02.271651",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:47:49.519509",
+          "rounds_spent": 4
         },
         "Agent通信机制": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T09:50:42.883215",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:47:49.519507",
+          "rounds_spent": 4
         },
         "状态管理与共享": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T09:55:38.713877",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:47:49.519503",
+          "rounds_spent": 4
         },
         "错误传播与控制": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T10:00:23.583035",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:47:49.519511",
+          "rounds_spent": 4
         },
         "多Agent场景设计": {
           "status": "deep_expanded",
