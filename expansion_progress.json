@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 277,
+  "completed_rounds": 282,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -606,43 +606,43 @@
           "rounds_spent": 3
         },
         "离线评估数据集设计": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T01:13:57.828039",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:48:07.037487",
+          "rounds_spent": 3
         },
         "美团龙猫评估方法": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T01:18:41.445161",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:48:07.037483",
+          "rounds_spent": 3
         }
       }
     },
     "13-记忆机制": {
       "topics": {
         "短期记忆与上下文窗口": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T01:23:38.779374",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:48:07.037478",
+          "rounds_spent": 3
         },
         "长期记忆设计": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T01:28:13.018202",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:48:07.037485",
+          "rounds_spent": 3
         },
         "上下文压缩策略": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T01:32:40.858048",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:48:07.037459",
+          "rounds_spent": 3
         },
         "用户画像与个性化": {
           "status": "expanded",
