@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 270,
+  "completed_rounds": 271,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -553,11 +553,11 @@
           "rounds_spent": 3
         },
         "Few-shot与In-context-learning": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T00:47:46.595281",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T14:34:33.050843",
+          "rounds_spent": 3
         },
         "结构化输出约束": {
           "status": "expanded",
