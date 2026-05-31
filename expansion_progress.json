@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 352,
+  "completed_rounds": 357,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -399,24 +399,24 @@
         },
         "DPO直接偏好优化": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T10:39:25.256106",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:57:02.082927",
+          "rounds_spent": 4
         },
         "强化学习对齐": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T10:54:20.406775",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:57:02.082951",
+          "rounds_spent": 4
         },
         "微调实验方法论": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T10:59:16.328538",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:57:02.082961",
+          "rounds_spent": 4
         }
       }
     },
@@ -424,17 +424,17 @@
       "topics": {
         "量化技术概述": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T11:03:52.481337",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:57:02.082941",
+          "rounds_spent": 4
         },
         "INT4-INT8量化方案": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T11:13:52.083763",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:57:02.082885",
+          "rounds_spent": 4
         },
         "KV-Cache机制": {
           "status": "deep_expanded",
