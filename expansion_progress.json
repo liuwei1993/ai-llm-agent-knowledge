@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 302,
+  "completed_rounds": 307,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -21,17 +21,17 @@
         },
         "自学路线与资源推荐": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T03:35:13.631868",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:10:57.635917",
+          "rounds_spent": 4
         },
         "技能树与能力模型": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T03:39:42.169251",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:10:57.635921",
+          "rounds_spent": 4
         }
       }
     },
@@ -39,24 +39,24 @@
       "topics": {
         "Transformer架构详解": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T03:44:18.036618",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:10:57.635913",
+          "rounds_spent": 4
         },
         "编码器与解码器的区别": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T03:48:36.387940",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:10:57.635904",
+          "rounds_spent": 4
         },
         "预训练阶段": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T03:58:29.174816",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:10:57.635919",
+          "rounds_spent": 4
         },
         "SFT监督微调": {
           "status": "deep_expanded",
