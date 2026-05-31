@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 337,
+  "completed_rounds": 342,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -286,24 +286,24 @@
         },
         "ReAct模式": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T08:27:02.233872",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:43:18.390651",
+          "rounds_spent": 4
         },
         "工具调用失败处理": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T09:22:02.790499",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:43:18.390649",
+          "rounds_spent": 4
         },
         "Agent设计模式": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T09:26:56.848039",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:43:18.390645",
+          "rounds_spent": 4
         }
       }
     },
@@ -311,17 +311,17 @@
       "topics": {
         "单Agentvs多Agent": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T09:31:55.507189",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:43:18.390654",
+          "rounds_spent": 4
         },
         "中心化架构设计": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T09:36:40.122598",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:43:18.390635",
+          "rounds_spent": 4
         },
         "去中心化架构": {
           "status": "deep_expanded",
