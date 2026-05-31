@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 392,
+  "completed_rounds": 397,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -724,10 +724,10 @@
         },
         "场景化架构设计": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T15:01:52.515377",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:38:17.737926",
+          "rounds_spent": 4
         }
       }
     },
@@ -735,31 +735,31 @@
       "topics": {
         "自我介绍技巧": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T15:01:52.515389",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:38:17.737909",
+          "rounds_spent": 4
         },
         "项目包装与深度挖掘": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T15:01:52.515321",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:38:17.737920",
+          "rounds_spent": 4
         },
         "反问技巧": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T15:01:52.515399",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:38:17.737923",
+          "rounds_spent": 4
         },
         "意向度展示": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T15:01:52.515361",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:38:17.737928",
+          "rounds_spent": 4
         },
         "常见面试问题应对": {
           "status": "deep_expanded",
