@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 263,
+  "completed_rounds": 264,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -500,11 +500,11 @@
           "rounds_spent": 3
         },
         "A2A协议详解": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T00:15:32.569064",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T13:52:28.541126",
+          "rounds_spent": 3
         },
         "MCP与A2A对比与选型": {
           "status": "expanded",
