@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 332,
+  "completed_rounds": 337,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -251,38 +251,38 @@
       "topics": {
         "LangChain框架详解": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T08:03:13.984859",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:38:47.310576",
+          "rounds_spent": 4
         },
         "LangGraph状态机": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T08:08:09.336899",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:38:47.310557",
+          "rounds_spent": 4
         },
         "Semantic-Kernel框架": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T08:12:36.557927",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:38:47.310541",
+          "rounds_spent": 4
         },
         "AutoGPT与自主Agent": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T08:17:14.370800",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:38:47.310572",
+          "rounds_spent": 4
         },
         "Function-Calling机制": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T08:22:09.870903",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:38:47.310568",
+          "rounds_spent": 4
         },
         "ReAct模式": {
           "status": "deep_expanded",
