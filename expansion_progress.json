@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 262,
+  "completed_rounds": 263,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -493,11 +493,11 @@
           "rounds_spent": 3
         },
         "MCP版本协商与能力协商": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T23:50:39.235782",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T13:42:29.089837",
+          "rounds_spent": 3
         },
         "A2A协议详解": {
           "status": "expanded",
