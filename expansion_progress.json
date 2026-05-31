@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 327,
+  "completed_rounds": 332,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -212,38 +212,38 @@
         },
         "重排序方法": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T05:58:43.091563",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:34:15.747097",
+          "rounds_spent": 4
         },
         "RAG评估指标RAGAS": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T06:03:37.501277",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:34:15.747117",
+          "rounds_spent": 4
         },
         "Agentic-RAG": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T06:08:37.039220",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:34:15.747110",
+          "rounds_spent": 4
         },
         "Graph-RAG": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T07:43:41.091448",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:34:15.747107",
+          "rounds_spent": 4
         },
         "Hybrid-Search混合检索": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T07:53:20.793915",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T15:34:15.747112",
+          "rounds_spent": 4
         }
       }
     },
