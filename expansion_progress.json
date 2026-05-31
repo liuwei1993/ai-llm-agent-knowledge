@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 377,
+  "completed_rounds": 382,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -607,17 +607,17 @@
         },
         "离线评估数据集设计": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:48:07.037487",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:22:48.315680",
+          "rounds_spent": 4
         },
         "美团龙猫评估方法": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:48:07.037483",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:22:48.315695",
+          "rounds_spent": 4
         }
       }
     },
@@ -625,24 +625,24 @@
       "topics": {
         "短期记忆与上下文窗口": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:48:07.037478",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:22:48.315706",
+          "rounds_spent": 4
         },
         "长期记忆设计": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:48:07.037485",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:22:48.315715",
+          "rounds_spent": 4
         },
         "上下文压缩策略": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:48:07.037459",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:22:48.315634",
+          "rounds_spent": 4
         },
         "用户画像与个性化": {
           "status": "deep_expanded",
