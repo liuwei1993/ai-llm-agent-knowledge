@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 367,
+  "completed_rounds": 372,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -533,38 +533,38 @@
         },
         "提示词压缩与裁剪": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:20:54.378425",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:12:23.798047",
+          "rounds_spent": 4
         },
         "数据飞轮优化": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:25:25.929888",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:12:23.798030",
+          "rounds_spent": 4
         },
         "COT思维链": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:29:57.773447",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:12:23.798043",
+          "rounds_spent": 4
         },
         "Few-shot与In-context-learning": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:34:33.050843",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:12:23.798045",
+          "rounds_spent": 4
         },
         "结构化输出约束": {
           "status": "deep_expanded",
-          "expansion_level": 3,
+          "expansion_level": 4,
           "subtopics_covered": [],
-          "last_updated": "2026-05-31T14:39:04.568267",
-          "rounds_spent": 3
+          "last_updated": "2026-05-31T16:12:23.798040",
+          "rounds_spent": 4
         }
       }
     },
