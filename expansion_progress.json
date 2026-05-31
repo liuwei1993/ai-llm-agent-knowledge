@@ -1,6 +1,6 @@
 {
   "total_rounds": 3000,
-  "completed_rounds": 255,
+  "completed_rounds": 256,
   "started_at": "2026-05-30T10:30:00",
   "chapters": {
     "01-学习路线与岗位介绍": {
@@ -423,11 +423,11 @@
     "09-推理加速与量化": {
       "topics": {
         "量化技术概述": {
-          "status": "expanded",
-          "expansion_level": 2,
+          "status": "deep_expanded",
+          "expansion_level": 3,
           "subtopics_covered": [],
-          "last_updated": "2026-05-30T23:03:11.240148",
-          "rounds_spent": 2
+          "last_updated": "2026-05-31T11:03:52.481337",
+          "rounds_spent": 3
         },
         "INT4-INT8量化方案": {
           "status": "expanded",
